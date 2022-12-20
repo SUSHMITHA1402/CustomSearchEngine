@@ -1,0 +1,44 @@
+input[type = text]{
+    border: 2px solid black;
+    border-radius: 4px;
+    width: 30%;
+    padding: 8px 16px;
+    margin: 20px;
+    font-family: "Times New Roman";
+    font-size: 18px;
+
+}
+
+#search{
+    background-color: blue;
+    color: white;
+    border: 1px;
+    border-radius: 4px;
+    padding: 8px 16px;
+    margin: 1px 4px;
+    cursor: pointer;
+    font-family: "Times New Roman";
+    font-size: 18px;
+}
+#histo{
+    background-color: red;
+        color: white;
+        border: 1px;
+        border-radius: 4px;
+        padding: 8px 16px;
+        margin: 1px 1px;
+        cursor: pointer;
+        font-family: "Times New Roman";
+        font-size: 18px;
+        text-align: right;
+}
+
+body{
+    text-align: center;
+}
+
+.resultTable{
+    display: inline-block;
+    margin: auto;
+}
+
